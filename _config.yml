@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "김효근"
+  name             : "Zapical"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "hkkim1031@gmail.com"
+  bio              : "ㅋㅋㅋ"
   location         : "Unidocs Co."
-  email            :
+  email            : zapcail@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
